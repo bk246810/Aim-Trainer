@@ -1,6 +1,10 @@
-Name: Brandon Kwan
-Student ID: bmhkwan
+**_Aim Trainer Game_**
 
-Special Explanations:
- - Copied timer.ts from the provided course source code from DEMOS/animation/src/timer/timer.ts
- - My program does not include the functionality to decrease the number of targets. I was unable to get that to work without the program crashing. You can only increase the number of targets.
+Targets appear on the screen. Click them in order to see how fast you can click all of the targets.
+
+Keys:
+- ']': increase the number of targets
+- 'c': automatically press the next target
+- '}': increase the target sizes
+- '{': decrease the target sizes
+- ' ': go from end screen to start screen
